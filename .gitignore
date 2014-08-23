@@ -1,3 +1,4 @@
+.vagrant
 # Ignore everything under site-root/
 site-root/*
 # Except the README
