@@ -1,0 +1,1 @@
+Extract your Rails application to this directory.
